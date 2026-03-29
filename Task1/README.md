@@ -1,7 +1,4 @@
-# 📊 Data Analytics Internship - Task 1
-
-## 📌 Project Title
-Data Immersion & Wrangling (Data Cleaning)
+# 📊 Task 1: Data Immersion & Wrangling (Data Cleaning)
 
 ---
 
