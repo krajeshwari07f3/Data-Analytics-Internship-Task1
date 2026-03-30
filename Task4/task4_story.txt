@@ -1,0 +1,9 @@
+To analyze Superstore sales data and identify trends in category, region, and time.
+The dashboard shows that Technology category has the highest sales.
+West region performs better compared to other regions.
+Sales gradually increase over time and peak during November and December.
+Sales are seasonal and increase towards the end of the year.
+Technology products contribute the most to overall revenue.
+The company should focus on high-performing categories like Technology.
+Marketing efforts should be increased during peak months.
+More focus should be given to high-performing regions like the West.
