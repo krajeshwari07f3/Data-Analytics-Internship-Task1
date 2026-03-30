@@ -1,8 +1,4 @@
-# 📊 Data Analytics Internship - Task 3
-
-## 📌 Project Title
-Interactive Dashboard Creation using Power BI
-
+# 📊 Task 3: Interactive Dashboard Creation using Power BI
 ---
 
 ## 📖 Description
